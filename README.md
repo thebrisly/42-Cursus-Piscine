@@ -12,9 +12,8 @@ All of my projects completed at 42 can be found within this repository. These pr
 </div>
 
 In addition to my project submissions, I've created a big comprehensive guide detailing my methodology, logic, and approach to solving the challenges presented in each project. This guide serve as valuable resources for fellow students within the 42 network, offering insights and strategies to navigate their own projects successfully.
-The guide is disponbile at this link :
 
---> https://42-cursus.gitbook.io/guide <--
+You can access the guide <span style="font-size: larger;">[here]</span>(https://42-cursus.gitbook.io/guide).
 
 ## Contributions
 
