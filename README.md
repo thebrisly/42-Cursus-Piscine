@@ -22,7 +22,7 @@ You can access the guide [HERE](https://42-cursus.gitbook.io/guide)
 I've received valuable feedback from individuals around the globe on my projects and guides, which has helped refine my understanding and approach to coding challenges. I'm grateful for the opportunity to contribute to the knowledge-sharing culture at 42 and beyond.
 
 <img width="200" alt="Capture d’écran 2024-03-28 à 08 32 30" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/d89c0954-38d1-49e2-8e2f-8ae55215e830">
-<img width="200" alt="Capture d’écran 2024-03-28 à 08 32 46" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/d28412a1-4671-4786-87fb-dbc98a3b913e">
+<img width="150" alt="Capture d’écran 2024-03-28 à 08 32 46" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/d28412a1-4671-4786-87fb-dbc98a3b913e">
 <img width="200" alt="Capture d’écran 2024-03-28 à 08 32 57" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/583aeede-9702-43d0-b81e-e4ba0e2bf443">
 <img width="200" alt="Capture d’écran 2024-03-28 à 08 33 07" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/5cc9e4c6-c3eb-4f95-a7a8-d7c6817b1052">
 <img width="200" alt="Capture d’écran 2024-03-28 à 08 33 16" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/fa513e2e-6ffe-4d09-b9db-2d6a3e2e3462">
