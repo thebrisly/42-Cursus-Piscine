@@ -29,9 +29,13 @@ I've received valuable feedback from individuals around the globe on my projects
 
 Just wanted to say THANK YOU <3
 
+-----------------------
+
+Thank you for visiting my repository. Feel free to explore my projects and the gitbook, and I hope they prove helpful in your own coding journey !
+
+-----------------------
+
 
 ## About 42
 
 42 challenges conventional education paradigms by offering a curriculum based solely on project-based learning. At 42, students, known as "cadets," tackle real-world coding challenges, collaborate with peers, and refine their problem-solving abilities in a dynamic and supportive community.
-
-Thank you for visiting my repository. Feel free to explore my projects and the gitbook, and I hope they prove helpful in your own coding journey !
