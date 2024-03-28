@@ -6,8 +6,10 @@ All of my projects completed at 42 can be found within this repository. These pr
 
 # My 42 Gitbook
 
-<img width="400" alt="Capture d’écran 2024-03-28 à 08 24 22" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/0a34304d-5e9a-44a0-b83c-d626da329b88">
+<div align="center">
 <img width="400" alt="Capture d’écran 2024-03-28 à 08 25 28" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/76ac97ff-aec7-491d-bd66-bfaecb6f20f0">
+<img width="400" alt="Capture d’écran 2024-03-28 à 08 24 22" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/0a34304d-5e9a-44a0-b83c-d626da329b88">
+</div>
 
 In addition to my project submissions, I've created a big comprehensive guide detailing my methodology, logic, and approach to solving the challenges presented in each project. This guide serve as valuable resources for fellow students within the 42 network, offering insights and strategies to navigate their own projects successfully.
 The guide is disponbile at this link :
