@@ -27,6 +27,8 @@ I've received valuable feedback from individuals around the globe on my projects
 <img width="200" alt="Capture d’écran 2024-03-28 à 08 33 07" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/5cc9e4c6-c3eb-4f95-a7a8-d7c6817b1052">
 <img width="200" alt="Capture d’écran 2024-03-28 à 08 33 16" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/fa513e2e-6ffe-4d09-b9db-2d6a3e2e3462">
 
+Just wanted to say THANK YOU <3
+
 
 ## About 42
 
