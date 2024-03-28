@@ -11,13 +11,19 @@ All of my projects completed at 42 can be found within this repository. These pr
 <img width="400" alt="Capture d’écran 2024-03-28 à 08 24 22" src="https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/0a34304d-5e9a-44a0-b83c-d626da329b88">
 </div>
 
-In addition to my project submissions, I've created a big comprehensive guide detailing my methodology, logic, and approach to solving the challenges presented in each project. This guide serve as valuable resources for fellow students within the 42 network, offering insights and strategies to navigate their own projects successfully.
+In addition to my project submissions, I've created a big comprehensive guide detailing my methodology, logic, and approach to solving the challenges presented in each project. 
 
-You can access the guide <span style="font-size: larger;">[here](https://42-cursus.gitbook.io/guide)</span>
+This guide serve as valuable resources for fellow students within the 42 network, offering insights and strategies to navigate their own projects successfully.
 
-## Contributions
+You can access the guide [HERE](https://42-cursus.gitbook.io/guide)
+
+## Feedbacks from YOU
 
 I've received valuable feedback from individuals around the globe on my projects and guides, which has helped refine my understanding and approach to coding challenges. I'm grateful for the opportunity to contribute to the knowledge-sharing culture at 42 and beyond.
+
+<img width="200" alt="Feedback1" src="[https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/76ac97ff-aec7-491d-bd66-bfaecb6f20f0](https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/25264f52-5fff-4e50-b68c-cf6f921cff0e)">
+<img width="200" alt="Feedback2" src="[https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/0a34304d-5e9a-44a0-b83c-d626da329b88](https://github.com/thebrisly/42_Cursus-Piscine/assets/84352348/1d2d0db1-a742-4141-a82b-65d7cf7cec03)">
+
 
 ## About 42
 
